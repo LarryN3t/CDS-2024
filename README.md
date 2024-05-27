@@ -11,4 +11,10 @@ Ringrazio i miei assistenti che hanno, con passione, realizzato questa bacchetta
 
 MARCO-EVA-PIERLUIGI-JACOPO-LUIGI
 
+Componenti:
+
+* Striscia LED WS1812B
+* ESP8266 (WEMOS D1 mini)
+* MICROFONO ARDUINO LM393
+
 Ors0B0t.
